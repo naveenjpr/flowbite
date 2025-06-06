@@ -16,6 +16,7 @@ export default function Header() {
     { href: "/button", label: "Button" },
     { href: "/buttonGroup", label: "ButtonGroup" },
     { href: "/cardFlowbite", label: "Card" },
+    { href: "/carousel", label: "carousel" },
   ];
 
   return (
