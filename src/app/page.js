@@ -4,6 +4,7 @@ import ReactAvatarFlowbite from "./avatar/page";
 import Flowbite_button from "./button/page";
 import Button_Group_Flowbite from "./buttonGroup/page";
 import React_card_flowbite from "./cardFlowbite/page";
+import Forms_flowbites from "./Components/Forms_flowbites";
 
 
 
@@ -18,6 +19,7 @@ export default function Home() {
         <Flowbite_button/>
         <Button_Group_Flowbite/>
         <React_card_flowbite/>
+        <Forms_flowbites/>
       </div>
     </>
   )
