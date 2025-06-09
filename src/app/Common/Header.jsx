@@ -19,6 +19,12 @@ export default function Header() {
     { href: "/carousel", label: "carousel" },
     { href: "/dropdown", label: "dropdown" },
     { href: "/forms", label: "forms" },
+    { href: "/modal", label: "modal" },
+    { href: "/tabs", label: "tabs" },
+    { href: "/sidebar", label: "sidebar" },
+    { href: "/rating", label: "rating" },
+    { href: "/progressBar", label: "progressBar" },
+    { href: "/Spinner", label: "Spinner" },
   ];
 
   return (
